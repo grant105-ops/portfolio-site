@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: grant-swift-portfolio
+    runtime: static
+    buildCommand: 'true'          # plain HTML, nothing to compile
+    staticPublishPath: ./
+    headers:
+      # fingerprinted images and fonts never change once published
+      - path: /assets/img/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
