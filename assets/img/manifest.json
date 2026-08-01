@@ -31,7 +31,7 @@
     1200
    ]
   ],
-  "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASoYABgAPtlWpEyoJKOiN/VYAQAbCWMAzuwPS4L0YctJl24yuAIDnaAxAAD+9pPZOXibZN9MJCYDRQVZ/Duy9LJqxu0uh/WAJ/mDiuIoOqN5ngpronkQcm+k6G6rYvxHvwtAM+UH6l5PizUfLIQoAA=="
+  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBQCdASoYABgAPuliqk4pJaQiKA1RIB0JYwDE2BBKFDS0pC5XZvp7DPObgGr5fMBdgAD+cQWeK9pZlJfmjztyVB/Ox+C6Do3W5AKruh7cVkBe2CN/aD6qXA4G/jB1fFU1KL2psHUTBCZVt3Ouv0Sft94zulbF7QvKtmMSFz3jnzP3rdKk/tkF98MeyGlZiVZtTTrMsCTvELzZ9C8UX5f7awbhfZfaEAA="
  },
  "fsae-chassis": {
   "w": 5712,
@@ -938,5 +938,39 @@
    ]
   ],
   "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBQCdASoYABIAPt1iq08opSQiKAqpEBuJZQClrA9mCCGNPfYSBZf2Yl87wG49GAwoM0AA/aYDulZ5CjU2WsLLFz+K2rm4gHuM5/gbcub4aK+2pYLvtXwqeTf6nJfzwF2xri2pis7pmTdNLfSef+NXFodoBhmlEKsLJmYWtG/Y4aJUvx6/221ejrw/AmkySUMOHNwQ7kjoUIG7nDs5kxgeNLc0JFEPuUZyWAAA"
+ },
+ "pen-nasa": {
+  "w": 1415,
+  "h": 796,
+  "ratio": 1.7776,
+  "avif": [
+   [
+    "pen-nasa-480.avif",
+    480
+   ],
+   [
+    "pen-nasa-800.avif",
+    800
+   ],
+   [
+    "pen-nasa-1200.avif",
+    1200
+   ]
+  ],
+  "webp": [
+   [
+    "pen-nasa-480.webp",
+    480
+   ],
+   [
+    "pen-nasa-800.webp",
+    800
+   ],
+   [
+    "pen-nasa-1200.webp",
+    1200
+   ]
+  ],
+  "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYAA4APulkqU4pJaQiMAgBIB0JYwDKACHdyNB03pNLxxNAkAD+8IeOKPf9j7Uca8b9IP3TOSxmJGX1doGXwOX3q8kIJd1A1L3JxxBxEafh+XIlB9pj1JsWHQ1wgIAjzow3Bp2cgO2hl9+heLz0tRFuwEjRFZKr3+jzvxt0Dp0Q4AAA"
  }
 }
