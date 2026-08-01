@@ -1,38 +1,4 @@
 {
- "grant": {
-  "w": 1254,
-  "h": 1254,
-  "ratio": 1.0,
-  "avif": [
-   [
-    "grant-480.avif",
-    480
-   ],
-   [
-    "grant-800.avif",
-    800
-   ],
-   [
-    "grant-1200.avif",
-    1200
-   ]
-  ],
-  "webp": [
-   [
-    "grant-480.webp",
-    480
-   ],
-   [
-    "grant-800.webp",
-    800
-   ],
-   [
-    "grant-1200.webp",
-    1200
-   ]
-  ],
-  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBQCdASoYABgAPuliqk4pJaQiKA1RIB0JYwDE2BBKFDS0pC5XZvp7DPObgGr5fMBdgAD+cQWeK9pZlJfmjztyVB/Ox+C6Do3W5AKruh7cVkBe2CN/aD6qXA4G/jB1fFU1KL2psHUTBCZVt3Ouv0Sft94zulbF7QvKtmMSFz3jnzP3rdKk/tkF98MeyGlZiVZtTTrMsCTvELzZ9C8UX5f7awbhfZfaEAA="
- },
  "fsae-chassis": {
   "w": 5712,
   "h": 3570,
@@ -972,5 +938,39 @@
    ]
   ],
   "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYAA4APulkqU4pJaQiMAgBIB0JYwDKACHdyNB03pNLxxNAkAD+8IeOKPf9j7Uca8b9IP3TOSxmJGX1doGXwOX3q8kIJd1A1L3JxxBxEafh+XIlB9pj1JsWHQ1wgIAjzow3Bp2cgO2hl9+heLz0tRFuwEjRFZKr3+jzvxt0Dp0Q4AAA"
+ },
+ "headshot": {
+  "w": 1254,
+  "h": 1254,
+  "ratio": 1.0,
+  "avif": [
+   [
+    "headshot-480.avif",
+    480
+   ],
+   [
+    "headshot-800.avif",
+    800
+   ],
+   [
+    "headshot-1200.avif",
+    1200
+   ]
+  ],
+  "webp": [
+   [
+    "headshot-480.webp",
+    480
+   ],
+   [
+    "headshot-800.webp",
+    800
+   ],
+   [
+    "headshot-1200.webp",
+    1200
+   ]
+  ],
+  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBQCdASoYABgAPuliqk4pJaQiKA1RIB0JYwDE2BBKFDS0pC5XZvp7DPObgGr5fMBdgAD+cQWeK9pZlJfmjztyVB/Ox+C6Do3W5AKruh7cVkBe2CN/aD6qXA4G/jB1fFU1KL2psHUTBCZVt3Ouv0Sft94zulbF7QvKtmMSFz3jnzP3rdKk/tkF98MeyGlZiVZtTTrMsCTvELzZ9C8UX5f7awbhfZfaEAA="
  }
 }
